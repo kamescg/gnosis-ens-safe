@@ -1,0 +1,1 @@
+export { FormRegisterDomain } from './FormRegisterDomain'

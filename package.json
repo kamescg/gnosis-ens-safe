@@ -1,0 +1,8 @@
+{
+  "name": "@gnosis.pm/gnosis-safe-ens-app",
+  "version": "1.0.1",
+  "description": "Gnosis Safe ENS Application",
+  "author": "Kames",
+  "license": "MIT",
+  "main": "template.json"
+}
